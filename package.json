@@ -1,0 +1,26 @@
+{
+  "name": "lint-demo",
+  "version": "1.0.0",
+  "description": "A demo to learn the knowledge about of lint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junfeisu/lint-demo.git"
+  },
+  "keywords": [
+    "lint",
+    "demo"
+  ],
+  "author": "sujunfei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junfeisu/lint-demo/issues"
+  },
+  "homepage": "https://github.com/junfeisu/lint-demo#readme",
+  "dependencies": {
+    "acorn": "^8.0.5"
+  }
+}

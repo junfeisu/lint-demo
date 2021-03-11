@@ -1,0 +1,8 @@
+.vscode/*
+node_modules/*
+
+# MAC_OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
